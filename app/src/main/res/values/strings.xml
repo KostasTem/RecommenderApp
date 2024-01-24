@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Recommendations</string>
+    <string name="navigation_drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close Navigation Drawer</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="password_reset_request">Password Reset Request</string>
+    <string name="submit">Submit</string>
+    <string name="no_recommendations_available">No recommendations available</string>
+    <string name="similar_users_percent_usage">%1s of similar users use this app</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="recommendation_history">Recommendation History</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="sync_data">Sync Data</string>
+    <string name="sync_data_text">Sync your anonymized data with your account</string>
+    <string name="no_network_connection">No network connection available</string>
+    <string name="server_connection_error">Error contacting server! Try again later</string>
+    <string name="base_rating_info">Enter your preference for the following app to allow us to make recommendations personalised to you!</string>
+    <string name="like_button_info">You like the app/recommendation or find it useful</string>
+    <string name="maybe_button_info">You neither like nor dislike the app/recommendation</string>
+    <string name="dislike_button_info">You don\'t like the app/recommendation or don\'t find it useful</string>
+    <string name="user_information_fetch_error">Couldn\'t retrieve your user information</string>
+    <string name="login_error">Couldn\'t login successfully</string>
+    <string name="no_recommendations_toast">There are no recommendations available for you right now!</string>
+    <string name="passwords_dont_match_toast">Passwords don\'t match!</string>
+    <string name="username_character_limit_toast">Your username can\'t be longer than 20 characters</string>
+    <string name="password_char_limit">Your password can\'t be longer than 20 characters</string>
+    <string name="use_proper_email">You have to use a proper email address</string>
+    <string name="password_length">Your password needs to be between 6 and 20 characters long</string>
+    <string name="registration_error_username">This username is already taken. Try using a different one.</string>
+    <string name="password_reset_error">The email address you provided isn\'t registered or a password reset request already exists</string>
+    <string name="password_reset_success">Password reset request submitted successfully</string>
+    <string name="sync_data_success">Your data was synced successfully</string>
+    <string name="sync_data_error">There was an error while syncing your data. Try again later</string>
+    <string name="get_all_recs_error">There was an error fetching required data. The app will exit now.</string>
+    <string name="unsync_data_success">Your data was unsynced successfully</string>
+    <string name="registration_success">Registration Successful!</string>
+    <string name="registration_error_email">This email is already registered. Try a different one.</string>
+    <string name="register_username_error">Your username can\'t be empty</string>
+</resources>
